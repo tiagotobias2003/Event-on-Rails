@@ -1,10 +1,10 @@
 # Event on Rails
 
-## Objetivos
-
-O event on Rails tem como objetivo auxiliar organizadores de eventos a automatizar as finanças das inscrições, seleção de trabalhos expostos com avaliações on-line e proporcionar um blog de discussões restrito aos organizadores do evento.
-
 ## O que é?
 
 O event on Rails é uma ferramenta on-line para quem deseja administrar um evento científico, congresso, palestra ou qualquer atividade que necessite de venda de inscrições, submissão de trabalhos e divulgação do evento.
+
+## Objetivos
+
+O event on Rails tem como objetivo auxiliar organizadores de eventos a automatizar as finanças das inscrições, seleção de trabalhos expostos com avaliações on-line e proporcionar um blog de discussões restrito aos organizadores do evento.
 
