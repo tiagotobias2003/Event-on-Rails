@@ -8,3 +8,4 @@ O event on Rails é uma ferramenta on-line para quem deseja administrar um event
 
 O event on Rails tem como objetivo auxiliar organizadores de eventos a automatizar as finanças das inscrições, seleção de trabalhos expostos com avaliações on-line e proporcionar um blog de discussões restrito aos organizadores do evento.
 
+## TOKA 
